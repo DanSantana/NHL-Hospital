@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="NLHospitalLibrary.Admissions">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAgEEAEAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAhAAI=</HashCode>
+      <FileName>Admissions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Beds">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAIAAgAAAgAAAAAAAAAAAAAAAAAhAAI=</HashCode>
+      <FileName>Beds.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.CurrentUser">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAQA=</HashCode>
+      <FileName>CurrentUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Doctors">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAEAEIAAAAIAAgAAAAAQAAAAAEAAAAAAAAAhAAI=</HashCode>
+      <FileName>Doctors.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Extras">
+    <Position X="15" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAEAEIAAAAIAAgAAAAAAAAAAAAAAAAAAAAAhAAI=</HashCode>
+      <FileName>Extras.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Patients">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAEAMIAAAAIIAgAAAAAQAAAAAgAAAAAAAAAhiBI=</HashCode>
+      <FileName>Patients.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Rates">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAgEAAAgAIAAgIAAAAAAAAAAAAAAAAABAAhAEI=</HashCode>
+      <FileName>Rates.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Users">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAhAAA=</HashCode>
+      <FileName>Users.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Wards">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAEAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAhAAI=</HashCode>
+      <FileName>Wards.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="NLHospitalLibrary.Properties.Settings">
+    <Position X="17" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAACAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

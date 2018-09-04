@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 7.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLHospital", "NLHospital.csproj", "{CBCC8B0C-7C52-40DB-8847-FE611D3B6AB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLHospitalLibrary", "..\NLHospitalLibrary\NLHospitalLibrary.csproj", "{851FD2ED-A306-4840-9635-487FC31CD2EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NLHBaseWindow", "..\NLHBaseWindow\NLHBaseWindow.csproj", "{5B29647A-5864-48AD-9559-F7D86504A1E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		ConfigName.0 = Debug
+		ConfigName.1 = Release
+	EndGlobalSection
+	GlobalSection(ProjectDependencies) = postSolution
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{CBCC8B0C-7C52-40DB-8847-FE611D3B6AB4}.Debug.ActiveCfg = Debug|.NET
+		{CBCC8B0C-7C52-40DB-8847-FE611D3B6AB4}.Debug.Build.0 = Debug|.NET
+		{CBCC8B0C-7C52-40DB-8847-FE611D3B6AB4}.Release.ActiveCfg = Release|.NET
+		{CBCC8B0C-7C52-40DB-8847-FE611D3B6AB4}.Release.Build.0 = Release|.NET
+		{851FD2ED-A306-4840-9635-487FC31CD2EB}.Debug.ActiveCfg = Debug|.NET
+		{851FD2ED-A306-4840-9635-487FC31CD2EB}.Debug.Build.0 = Debug|.NET
+		{851FD2ED-A306-4840-9635-487FC31CD2EB}.Release.ActiveCfg = Release|.NET
+		{851FD2ED-A306-4840-9635-487FC31CD2EB}.Release.Build.0 = Release|.NET
+		{5B29647A-5864-48AD-9559-F7D86504A1E3}.Debug.ActiveCfg = Debug|.NET
+		{5B29647A-5864-48AD-9559-F7D86504A1E3}.Debug.Build.0 = Debug|.NET
+		{5B29647A-5864-48AD-9559-F7D86504A1E3}.Release.ActiveCfg = Release|.NET
+		{5B29647A-5864-48AD-9559-F7D86504A1E3}.Release.Build.0 = Release|.NET
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
